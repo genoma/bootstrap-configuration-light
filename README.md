@@ -1,4 +1,6 @@
-bootstrap-configuration
+bootstrap-configuration-safe
 =======================
 
-Basic Bootstrap configuration with Bootstrap as a Bower module, Grunt configuration for main project with Less, Coffeescript support.
+Basic Bootstrap configuration with Bootstrap as a Bower package, Grunt configuration for main project with Less, Coffeescript support.
+
+This is basically a [bootstrap-configuration](https://github.com/genoma/bootstrap-configuration) copy, but that stays synced with the stable releases from Bootstrap.
