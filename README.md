@@ -1,5 +1,7 @@
 bootstrap-configuration-safe
-=======================
+============================
+
+# DEPRECATED
 
 Basic Bootstrap configuration with Bootstrap as a Bower package, Grunt configuration for main project with Less, Coffeescript support.
 
